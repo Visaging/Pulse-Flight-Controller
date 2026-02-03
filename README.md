@@ -34,12 +34,6 @@ I added a **USB-C port** and the "Holy Trinity" of buttons (BOOT + RESET) to the
 
 --- 
 <details>
-  <summary><h2>External Wiring Diagrams</h2></summary>
-
-</details>
-
---- 
-<details>
   <summary><h2>PCB Schematics</h2></summary>
 <img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/44ae1a04-9f0a-4dec-affc-759dca975bb0" />
 </details>
@@ -91,13 +85,13 @@ I added a **USB-C port** and the "Holy Trinity" of buttons (BOOT + RESET) to the
 
 | Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL | Running Total ($) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| PCBA | PCB | 5 PCB, 2 PCBA | $184.74 | $184.74 | https://jlcpcb.com/ | $184.74 |
-| Tactile Switches  | Boot and Reset Buttons | 2 | $0.0363 | $0.0726 | https://robu.in/product/ts6610tp-160gf-bxg-022-shou-han-50ma-100m%cf%89-100000-times-12v-160gf-round-button-standing-paste-spst-smd-tactile-switches-rohs/ | $185.35 |
+| PCBA | PCB | 5 PCB, 2 PCBA | $194.74 | $194.74  | https://jlcpcb.com/ | $194.74  |
+| Tactile Switches  | Boot and Reset Buttons | 2 | $0.0363 | $0.0726 | https://robu.in/product/ts6610tp-160gf-bxg-022-shou-han-50ma-100m%cf%89-100000-times-12v-160gf-round-button-standing-paste-spst-smd-tactile-switches-rohs/ | $195.35 |
 
 <details>
   <summary>JLCPCB Order</summary>
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7d645180-00b9-48b2-b1cf-a55451041b79" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/15efc230-370d-4c71-9dc9-1fa7a84ac987" />
 <img alt="image" src="https://github.com/user-attachments/assets/2b865b6a-f698-46ed-835a-6a73f7c1f475" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/933fed28-8d96-4836-8286-6288811cf6f3" />
 </details>
