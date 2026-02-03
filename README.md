@@ -93,7 +93,7 @@ I added a **USB-C port** and the "Holy Trinity" of buttons (BOOT + RESET) to the
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/15efc230-370d-4c71-9dc9-1fa7a84ac987" />
 <img alt="image" src="https://github.com/user-attachments/assets/2b865b6a-f698-46ed-835a-6a73f7c1f475" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5c9eacaf-9024-4151-94d3-024f0bb23a34" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dcdbb06e-31b7-45f5-b116-649301c5f293" />
 </details>
 <details>
   <summary>Cart</summary>
