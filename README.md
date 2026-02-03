@@ -5,7 +5,7 @@ The name is inspired by two things I love:
 2.  **Beatbox:** A personal touch (look at the silkscreen artwork on the top layer).
 
 ## Overview
-Visage Pulse is a completely custom flight controller that was created from the ground up. I designed the whole stack myself to truly understand how a drone works, from the low-level motor mixing logic to the physics of the gyroscope, even though it would have been simpler to simply rely on off-the-shelf hardware and Betaflight. The custom PCB designs and the particular STM32 firmware I wrote to make the silicon work are both included in this repository, which acts as documentation for that process.
+Pulse is a completely custom flight controller that was created from the ground up. I designed the whole stack myself to truly understand how a drone works, from the low-level motor mixing logic to the physics of the gyroscope, even though it would have been simpler to simply rely on off-the-shelf hardware and Betaflight. The custom PCB designs and the particular STM32 firmware I wrote to make the silicon work are both included in this repository, which acts as documentation for that process.
 
 ## Hardware Stack
 * **MCU:** **STM32F405RGT6** - Chosen because it's a beast at math and has enough pins for everything.
