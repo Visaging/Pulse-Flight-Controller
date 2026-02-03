@@ -88,6 +88,12 @@ I added a **USB-C port** and the "Holy Trinity" of buttons (BOOT + RESET) to the
 
 --- 
 ## Bill of Material
+
+| Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL | Running Total ($) |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| PCBA | PCB | 5 PCB, 2 PCBA | $184.74 | $184.74 | https://jlcpcb.com/ | $184.74 |
+| Tactile Switches  | Boot and Reset Buttons | 2 | $0.0363 | $0.0726 | https://robu.in/product/ts6610tp-160gf-bxg-022-shou-han-50ma-100m%cf%89-100000-times-12v-160gf-round-button-standing-paste-spst-smd-tactile-switches-rohs/ | $185.35 |
+
 <details>
   <summary>JLCPCB Order</summary>
 
@@ -98,6 +104,7 @@ I added a **USB-C port** and the "Holy Trinity" of buttons (BOOT + RESET) to the
 <details>
   <summary>Cart</summary>
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ddc62a58-1b4b-44b6-ad5e-a50e6e2523f6" />
 </details>
 
 ## Lessons Learned
