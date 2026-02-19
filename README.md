@@ -84,8 +84,9 @@ I added a **USB-C port** and the "Holy Trinity" of buttons (BOOT + RESET) to the
 
 | Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL | Running Total ($) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| PCBA | PCB | 5 PCB, 2 PCBA | $194.74 | $194.74  | https://jlcpcb.com/ | $194.74  |
-| Tactile Switches  | Boot and Reset Buttons | 2 | $0.0363 | $0.0726 | https://robu.in/product/ts6610tp-160gf-bxg-022-shou-han-50ma-100m%cf%89-100000-times-12v-160gf-round-button-standing-paste-spst-smd-tactile-switches-rohs/ | $195.35 |
+| PCBA | PCB | 5 PCB, 1 PCBA | $216.41 | $216.41 | https://www.lioncircuits.com/ | $216.41  |
+| Tactile Switches  | Boot and Reset Buttons | 2 | $0.0363 | $0.0726 | https://robu.in/product/ts6610tp-160gf-bxg-022-shou-han-50ma-100m%cf%89-100000-times-12v-160gf-round-button-standing-paste-spst-smd-tactile-switches-rohs/ | $216.4826 |
+| TYPE-C-31-M-12 | USB-C Port | 1 | $0.42 | $0.42 | https://www.lioncircuits.com/ | $216.9026 |
 
 <details>
   <summary>JLCPCB Order</summary>
@@ -95,6 +96,13 @@ I added a **USB-C port** and the "Holy Trinity" of buttons (BOOT + RESET) to the
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/dcdbb06e-31b7-45f5-b116-649301c5f293" />
 </details>
 <details>
+  <summary>Lion Circuit Order</summary>
+
+<img width="1920" height="1080" alt="final" src="https://github.com/user-attachments/assets/8b207d0c-e386-4ffc-9dc9-fb86ffd4e430" />
+<img width="6622" height="9362" alt="Lion Circuits_Page_1" src="https://github.com/user-attachments/assets/ff2e3589-3140-404c-bba5-9da31397aef1" />
+</details>
+<details>
+   
   <summary>Cart</summary>
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ddc62a58-1b4b-44b6-ad5e-a50e6e2523f6" />
